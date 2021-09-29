@@ -82,6 +82,7 @@
         width: 1110px;
         height: 450px;
         display: flex;
+        overflow-y: inherit;
         flex-direction: row-reverse;
     }
     #container__image{
