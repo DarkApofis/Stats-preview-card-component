@@ -28,7 +28,6 @@
 #container{
     width: 327px; /* 375*/
     height: 90%;
-    
     text-align: center;
     background-color: var(--card-background);
     border-radius: 5px;
