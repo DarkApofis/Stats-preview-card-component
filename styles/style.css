@@ -20,13 +20,15 @@
 #background{
     height: 100vh;
     display: flex;
+    padding: 0 12px;
     justify-content: center;
     align-items: center;
     background-color: var(--main-background);
 }
 #container{
-    width: 375px;
+    width: 327px; /* 375*/
     height: 90%;
+    
     text-align: center;
     background-color: var(--card-background);
     border-radius: 5px;
